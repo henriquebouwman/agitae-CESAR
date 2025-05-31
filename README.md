@@ -1,14 +1,15 @@
-# 🏃‍♂️ Sistema de Gamificação para Atividades Físicas
+# 🏃‍♂️ Agitae - Sistema de Gamificação para Atividades Físicas
 
 ## 📚 Disciplina
-**[Nome da Disciplina]** - [Nome da Instituição]  
-**Período:** [Semestre/Ano]
+**Projeto 1** - CESAR School  
+**Período:** 2025.1
 
 ## 👥 Equipe de Desenvolvimento
-- **[Nome do Participante 1]** - [RA/Matrícula]
-- **[Nome do Participante 2]** - [RA/Matrícula]
-- **[Nome do Participante 3]** - [RA/Matrícula]
-- **[Nome do Participante 4]** - [RA/Matrícula]
+- **Alana Costa** - @
+- **Bartholomeu Baptista** - @
+- **Henrique Bouwman** - @henriquebouwman
+- **Manuel Galvão** - @manuelfgalvao
+- **Victor Nadler** - @
 
 ## 📋 Sobre o Projeto
 
@@ -44,45 +45,23 @@ Motivar usuários a manterem uma rotina de exercícios consistente através de:
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** Python
-- **Framework:** [Django/Flask - especificar qual foi usado]
-- **Banco de Dados:** [SQLite/PostgreSQL/MySQL - especificar]
-- **Frontend:** [HTML/CSS/JavaScript - se aplicável]
+- **Banco de Dados:** SQLite
 
 ## 📋 Pré-requisitos
 - Python 3.8+
-- [Outras dependências específicas]
 
 ## 🚀 Como Executar
 
 ```bash
 # Clone o repositório
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/henriquebouwman/agitae-CESAR.git
 
 # Acesse o diretório
 cd [NOME_DO_DIRETORIO]
 
-# Instale as dependências
-pip install -r requirements.txt
-
 # Execute o projeto
 python main.py
 ```
-
-## 📈 Estrutura de Dados
-
-### Entrada
-- Informações do usuário (nome, idade, localização, nível de condicionamento)
-- Dados de treinos (tipo, duração, intensidade)
-- Participação em desafios
-- Feedback e progresso
-
-### Saída
-- Rankings de desempenho
-- Pontuação e recompensas
-- Lista de desafios disponíveis
-- Sugestões de parceiros
-- Relatórios de progresso
-- Notificações personalizadas
 
 ## 🎓 Contexto Acadêmico
 Este projeto foi desenvolvido como atividade prática para aplicação dos conceitos de:
