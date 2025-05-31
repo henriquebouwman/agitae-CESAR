@@ -7,8 +7,8 @@
 ## 👥 Equipe de Desenvolvimento
 - **Alana Costa** - @
 - **Bartholomeu Baptista** - @
-- **Henrique Bouwman** - @henriquebouwman
-- **Manuel Galvão** - @manuelfgalvao
+- **Henrique Bouwman** - [@username](https://github.com/henriquebouwman)
+- **Manuel Galvão** - [@username](https://github.com/manuelfgalvao)
 - **Victor Nadler** - @
 
 ## 📋 Sobre o Projeto
