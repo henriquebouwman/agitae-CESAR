@@ -65,7 +65,6 @@ python main.py
 
 ## 🎓 Contexto Acadêmico
 Este projeto foi desenvolvido como atividade prática para aplicação dos conceitos de:
-- Programação orientada a objetos
 - Operações CRUD
 - Modelagem de dados
 - Interface de usuário
