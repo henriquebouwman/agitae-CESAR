@@ -57,7 +57,7 @@ Motivar usuários a manterem uma rotina de exercícios consistente através de:
 git clone https://github.com/henriquebouwman/agitae-CESAR.git
 
 # Acesse o diretório
-cd [NOME_DO_DIRETORIO]
+cd agitae-CESAR
 
 # Execute o projeto
 python main.py
