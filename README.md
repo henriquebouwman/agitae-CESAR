@@ -9,7 +9,7 @@
 - **Bartholomeu Baptista** - @
 - **Henrique Bouwman** - [@henriquebouwman](https://github.com/henriquebouwman)
 - **Manuel Galvão** - [@manuelfgalvao](https://github.com/manuelfgalvao)
-- **Victor Nadler** - @
+- **Victor Nadler** - [@victornad](https://github.com/victornad)
 
 ## 📋 Sobre o Projeto
 
